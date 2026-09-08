@@ -1,0 +1,129 @@
+"concrete.tunnel"
+{
+	"dsp" "1"
+
+	"playlooping"
+	{
+		"volume" "0.5"
+		"position" "0"
+		"pitch" "100"
+
+		"wave" "ambient\misc\flour_light.wav"
+	}
+
+	"playlooping"
+	{
+		"volume" "0.5"
+		"position" "1"
+		"pitch" "100"
+
+		"wave" "ambient\misc\flour_light.wav"
+	}
+
+	"playlooping"
+	{
+		"volume" "0.5"
+		"position" "2"
+		"pitch" "100"
+
+		"wave" "ambient\misc\flour_light.wav"
+	}
+
+	"playlooping"
+	{
+		"volume" "0.5"
+		"position" "3"
+		"pitch" "100"
+
+		"wave" "ambient\misc\flour_light.wav"
+	}
+}
+
+"concrete.outside"
+{
+	"dsp" "1"
+	
+	"playlooping"
+	{
+		"volume" "0.5"
+		"pitch" "100"
+		"wave" "ambient\forest_night.wav"
+	}
+}
+
+"concrete.bunker"
+{
+	"dsp" "1"
+	
+	"playlooping"
+	{
+		"volume" "0.5"
+		"position" "0"
+		"pitch" "100"
+
+		"wave" "ambient\misc\flour_light.wav"
+	}
+
+	"playlooping"
+	{
+		"volume" "0.5"
+		"position" "1"
+		"pitch" "100"
+
+		"wave" "ambient\misc\flour_light.wav"
+	}
+
+	"playlooping"
+	{
+		"volume" "0.5"
+		"position" "2"
+		"pitch" "100"
+
+		"wave" "ambient\misc\flour_light.wav"
+	}
+
+	"playlooping"
+	{
+		"volume" "0.5"
+		"position" "3"
+		"pitch" "100"
+
+		"wave" "ambient\misc\flour_light.wav"
+	}
+
+	"playlooping"
+	{
+		"volume" "0.5"
+		"position" "4"
+		"pitch" "100"
+
+		"wave" "ambient\misc\flour_light.wav"
+	}
+
+	"playlooping"
+	{
+		"volume" "0.5"
+		"position" "5"
+		"pitch" "100"
+
+		"wave" "ambient\misc\flour_light.wav"
+	}
+
+	"playlooping"
+	{
+		"volume" "0.5"
+		"position" "6"
+		"pitch" "100"
+
+		"wave" "ambient\misc\flour_light.wav"
+	}
+
+	"playlooping"
+	{
+		"volume" "0.5"
+		"position" "7"
+		"pitch" "100"
+
+		"wave" "ambient\misc\flour_light.wav"
+	}
+}
