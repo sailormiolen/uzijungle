@@ -28,7 +28,6 @@ local function FreezePlayers(state)
 end
 
 function BeginRound() 
-    print("Round Begin Called")
     roundStatus = "waiting"
     roundTimeLeft = -1
     SendRoundStatus()
